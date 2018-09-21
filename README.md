@@ -1,2 +1,4 @@
 # hello-world
-tutorial
+
+hi 
+im n00b for computer
